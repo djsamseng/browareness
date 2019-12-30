@@ -1,0 +1,26 @@
+{
+  "name": "browarness",
+  "version": "1.0.0",
+  "description": "Games to teach life skills not taught in school",
+  "main": "index.tsx",
+  "author": "Samuel Seng",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.4.1",
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "reactstrap": "^8.2.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.2",
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.4"
+  }
+}
